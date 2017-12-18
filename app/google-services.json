@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "717972776445",
+    "firebase_url": "https://quizonline-86bff.firebaseio.com",
+    "project_id": "quizonline-86bff",
+    "storage_bucket": "quizonline-86bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717972776445:android:62006290ea3e83c6",
+        "android_client_info": {
+          "package_name": "com.itam.carlos.quizonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717972776445-c75hkvck2kmgk8m6k7lfe1o6jsq07ibk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itam.carlos.quizonline",
+            "certificate_hash": "b3dc6d00c33307cd8dd9c37102aebb560b0217b2"
+          }
+        },
+        {
+          "client_id": "717972776445-92h07hqni9rj9okvd03jmts9qucjna7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbQFbc3AXZban_fiLm0brseYTq9Kr5L6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717972776445-92h07hqni9rj9okvd03jmts9qucjna7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
